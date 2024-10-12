@@ -1,0 +1,16 @@
+D:\ptr ứng dụng csdl\bai tap lon\bai tap lon\bin\Debug\bai tap lon.exe.config
+D:\ptr ứng dụng csdl\bai tap lon\bai tap lon\bin\Debug\bai tap lon.exe
+D:\ptr ứng dụng csdl\bai tap lon\bai tap lon\bin\Debug\bai tap lon.pdb
+D:\ptr ứng dụng csdl\bai tap lon\bai tap lon\obj\Debug\bai tap lon.csproj.AssemblyReference.cache
+D:\ptr ứng dụng csdl\bai tap lon\bai tap lon\obj\Debug\bai_tap_lon.frmdanhmucdodung.resources
+D:\ptr ứng dụng csdl\bai tap lon\bai tap lon\obj\Debug\bai_tap_lon.frmdanhmuchanghoa.resources
+D:\ptr ứng dụng csdl\bai tap lon\bai tap lon\obj\Debug\bai_tap_lon.frmdanhmuckhachdang.resources
+D:\ptr ứng dụng csdl\bai tap lon\bai tap lon\obj\Debug\bai_tap_lon.frmdanhmucnhanvein.resources
+D:\ptr ứng dụng csdl\bai tap lon\bai tap lon\obj\Debug\bai_tap_lon.frmhoadonbanhang.resources
+D:\ptr ứng dụng csdl\bai tap lon\bai tap lon\obj\Debug\bai_tap_lon.frmMain.resources
+D:\ptr ứng dụng csdl\bai tap lon\bai tap lon\obj\Debug\bai_tap_lon.frmtimkiemhoadoncs.resources
+D:\ptr ứng dụng csdl\bai tap lon\bai tap lon\obj\Debug\bai_tap_lon.Properties.Resources.resources
+D:\ptr ứng dụng csdl\bai tap lon\bai tap lon\obj\Debug\bai tap lon.csproj.GenerateResource.cache
+D:\ptr ứng dụng csdl\bai tap lon\bai tap lon\obj\Debug\bai tap lon.csproj.CoreCompileInputs.cache
+D:\ptr ứng dụng csdl\bai tap lon\bai tap lon\obj\Debug\bai tap lon.exe
+D:\ptr ứng dụng csdl\bai tap lon\bai tap lon\obj\Debug\bai tap lon.pdb
